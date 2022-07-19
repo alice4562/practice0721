@@ -1,0 +1,16 @@
+# 檔案名稱 .gitignore
+
+# 忽略 secret.yml檔案
+secrt.yml
+
+# 忽略config 目錄下的 database.yml檔案
+config/database.yml
+
+# 忽略所有db 目錄下副檔名是.sqlite3的檔案
+/db/*.sqlite3
+
+# 忽略所有附檔名是.tmp的檔案
+*.tmp
+
+# .gitignore
+
