@@ -12,5 +12,6 @@ config/database.yml
 # 忽略所有附檔名是.tmp的檔案
 *.tmp
 
-# .gitignore
+.gitignore
 
+abc.html
